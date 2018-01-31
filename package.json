@@ -7,5 +7,19 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/PublicaIO/react-native-pbkdf2"
+    },
+    "dependencies": {
+        "create-hash": "^1.1.2",
+        "create-hmac": "^1.1.4",
+        "ripemd160": "^2.0.1",
+        "safe-buffer": "^5.0.1",
+        "sha.js": "^2.4.8"
+    },
+    "devDependencies": {
+        "benchmark": "^2.1.4",
+        "browserify": "*",
+        "nyc": "^6.4.0",
+        "standard": "*",
+        "tape": "^4.5.1"
     }
 }
