@@ -1,6 +1,6 @@
 {
     "name": "react-native-pbkdf2",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Minor wrapper to alias pbkdf2 package for React Native usage",
     "author": "Scandiweb",
     "license": "MIT",
