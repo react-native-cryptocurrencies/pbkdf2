@@ -1,7 +1,7 @@
 {
     "name": "react-native-pbkdf2",
     "version": "1.0.1",
-    "description": "Contracts used for Publica platform",
+    "description": "Minor wrapper to alias pbkdf2 package for React Native usage",
     "author": "Scandiweb",
     "license": "MIT",
     "repository": {
