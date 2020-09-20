@@ -1,25 +1,26 @@
 {
-    "name": "react-native-pbkdf2",
-    "version": "1.0.2",
-    "description": "Minor wrapper to alias pbkdf2 package for React Native usage",
-    "author": "Scandiweb",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/PublicaIO/react-native-pbkdf2"
-    },
-    "dependencies": {
-        "create-hash": "^1.1.2",
-        "create-hmac": "^1.1.4",
-        "ripemd160": "^2.0.1",
-        "safe-buffer": "^5.0.1",
-        "sha.js": "^2.4.8"
-    },
-    "devDependencies": {
-        "benchmark": "^2.1.4",
-        "browserify": "*",
-        "nyc": "^6.4.0",
-        "standard": "*",
-        "tape": "^4.5.1"
-    }
+  "name": "@react-native-cryptocurrencies/pbkdf2",
+  "version": "1.0.5",
+  "description": "Minor wrapper to alias pbkdf2 package for React Native usage",
+  "author": "Scandiweb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PublicaIO/react-native-pbkdf2"
+  },
+  "dependencies": {
+    "create-hash": "^1.1.2",
+    "create-hmac": "^1.1.4",
+    "js-sha512": "^0.8.0",
+    "ripemd160": "^2.0.1",
+    "safe-buffer": "^5.0.1",
+    "sha.js": "^2.4.8"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "browserify": "*",
+    "nyc": "^6.4.0",
+    "standard": "*",
+    "tape": "^4.5.1"
+  }
 }
