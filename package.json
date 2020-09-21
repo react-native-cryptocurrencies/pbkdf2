@@ -1,6 +1,6 @@
 {
   "name": "@react-native-cryptocurrencies/pbkdf2",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Minor wrapper to alias pbkdf2 package for React Native usage",
   "author": "Scandiweb",
   "license": "MIT",
